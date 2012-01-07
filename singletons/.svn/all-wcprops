@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/337642/json-api/trunk/singletons
+END
+api.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/261234/json-api/trunk/singletons/api.php
+END
+introspector.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/337642/json-api/trunk/singletons/introspector.php
+END
+response.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/332171/json-api/trunk/singletons/response.php
+END
+query.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/258588/json-api/trunk/singletons/query.php
+END

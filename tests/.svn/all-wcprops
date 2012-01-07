@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/337642/json-api/trunk/tests
+END
+core.get_tag_index-01.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/337642/json-api/trunk/tests/core.get_tag_index-01.phpt
+END
+core.get_tag_posts-01.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/337642/json-api/trunk/tests/core.get_tag_posts-01.phpt
+END
+core.get_date_index-01.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/337642/json-api/trunk/tests/core.get_date_index-01.phpt
+END
+core.get_category_index-01.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/337642/json-api/trunk/tests/core.get_category_index-01.phpt
+END
+core.get_date_posts-01.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/337642/json-api/trunk/tests/core.get_date_posts-01.phpt
+END
+core.get_category_posts-01.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/337642/json-api/trunk/tests/core.get_category_posts-01.phpt
+END
+core.get_date_posts-02.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/337642/json-api/trunk/tests/core.get_date_posts-02.phpt
+END
+core.get_date_posts-03.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/337642/json-api/trunk/tests/core.get_date_posts-03.phpt
+END
+core.get_recent_posts-01.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/337642/json-api/trunk/tests/core.get_recent_posts-01.phpt
+END
+core.get_recent_posts-02.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/337642/json-api/trunk/tests/core.get_recent_posts-02.phpt
+END
+core.get_recent_posts-03.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/337642/json-api/trunk/tests/core.get_recent_posts-03.phpt
+END
+core.get_page-01.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/337642/json-api/trunk/tests/core.get_page-01.phpt
+END
+core.get_page-02.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/337642/json-api/trunk/tests/core.get_page-02.phpt
+END
+query-01.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/337642/json-api/trunk/tests/query-01.phpt
+END
+core.get_post-01.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/337642/json-api/trunk/tests/core.get_post-01.phpt
+END
+core.get_author_index-01.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/337642/json-api/trunk/tests/core.get_author_index-01.phpt
+END
+core.get_author_posts-01.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/337642/json-api/trunk/tests/core.get_author_posts-01.phpt
+END
+core.get_author_posts-02.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/337642/json-api/trunk/tests/core.get_author_posts-02.phpt
+END
+core.get_author_posts-03.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/337642/json-api/trunk/tests/core.get_author_posts-03.phpt
+END
+core.info-01.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/337642/json-api/trunk/tests/core.info-01.phpt
+END
+core.get_author_posts-04.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/337642/json-api/trunk/tests/core.get_author_posts-04.phpt
+END
+core.get_search_posts-01.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/337642/json-api/trunk/tests/core.get_search_posts-01.phpt
+END
+core.info-02.phpt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/337642/json-api/trunk/tests/core.info-02.phpt
+END

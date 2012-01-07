@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/261096/json-api/trunk/models
+END
+tag.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/191650/json-api/trunk/models/tag.php
+END
+category.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/174617/json-api/trunk/models/category.php
+END
+author.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/174617/json-api/trunk/models/author.php
+END
+comment.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/174617/json-api/trunk/models/comment.php
+END
+post.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/261096/json-api/trunk/models/post.php
+END
+attachment.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/258306/json-api/trunk/models/attachment.php
+END
